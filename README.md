@@ -13,7 +13,9 @@ By using a heuristic it gives the unchecked nodes an order to determine which ha
   
 ## Examples
 Randomly generated maze:
+
 ![Imgur](http://i.imgur.com/jziEuOa.png)
 
 Solved maze with A*:
+
 ![Imgur](http://i.imgur.com/JJc8PcV.png)
